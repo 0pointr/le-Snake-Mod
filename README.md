@@ -19,11 +19,11 @@ to run.
 ---
 
 ####Screenshot
-![alt text][shot]
-[shot]: https://raw.githubusercontent.com/0pointr/le-Snake-Mod/master/shots/snake2.jpg "le Snake Mod screenshot1"
+![alt text][shot1]
+[shot1]: https://raw.githubusercontent.com/0pointr/le-Snake-Mod/master/shots/snake1.jpg "le Snake Mod screenshot1"
 
 ![alt text][shot2]
-[shot2]: https://raw.githubusercontent.com/0pointr/le-Snake-Mod/master/shots/snake1.jpg "le Snake Mod screenshot2"
+[shot2]: https://raw.githubusercontent.com/0pointr/le-Snake-Mod/master/shots/snake2.jpg "le Snake Mod screenshot2"
 
 ---
 
