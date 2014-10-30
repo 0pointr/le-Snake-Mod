@@ -12,6 +12,11 @@
  #Source files : main.c snake.c food.c menu.c blocade.c engine.c
  Run make to build executable.
 
+ This file is not part of "le Snake Mod" but comes with the package
+ as a demonstation of a system of moving blocks and also a limitation
+ of using ncurses.
+ You can compile and run it separately. See if you can find out the limitation ;)
+
 */
 
 #include <ncurses.h>
