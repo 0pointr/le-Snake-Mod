@@ -1,7 +1,7 @@
 le Snake Mod
 ====
-A modified fun-infused version of the classic **Snake** game. There's food and snake and more!
-Avoid the falling blocades and eat away towards glory!
+A modified fun-infused version of the classic **Snake** game. There's food, there's snake and there's more!
+Avoid the falling blockades and eat your way to glory!
 
 ---
 
